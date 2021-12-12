@@ -1,0 +1,1 @@
+# To-get-the-class-name-of-an-instance-using-__class__.__name__
